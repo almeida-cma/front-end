@@ -8,6 +8,7 @@ O conteúdo é voltado para estudantes e desenvolvedores que desejam aprimorar s
 ## 📂 Conteúdo do Repositório
 
 ### 1️⃣ `index.html`
+- Demonstração online: [https://almeida-cma.github.io/front-end](https://almeida-cma.github.io/front-end) 
 > Código-fonte com **tutorial básico de front-end**, incluindo estrutura HTML, formatação com CSS e interatividade com JavaScript.
 
 ---
